@@ -160,8 +160,11 @@ body{
     margin-top: 57px;
 }
 #contact h4{
- font-family: 'Original Surfer', cursive; 
+ color:  rgb(236, 85, 39);
+    font-family: 'Original Surfer', cursive;
+    
     text-align: center;
+    
 }
     
 #contact form {
