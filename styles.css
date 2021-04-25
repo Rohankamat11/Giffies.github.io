@@ -159,7 +159,14 @@ body{
     text-align: center;
     margin-top: 57px;
 }
-
+#contact h4{
+ color:  rgb(236, 85, 39);
+    font-family: 'Original Surfer', cursive;
+    
+    text-align: center;
+    
+}
+    
 #contact form {
      text-align: center;
 }
