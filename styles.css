@@ -251,3 +251,34 @@ margin-left: 15px;
     padding: 1px;
     
 }
+.a1{
+    font-family: 'Original Surfer', cursive;
+    color: rgb(236, 85, 39);
+    font-size: 40px;
+    text-shadow: 2px 1px 0 rgb(87, 79, 79);
+    margin-left: 15px;
+    position: static;
+}
+
+.products-img{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.btn{
+    margin-left: 30px;
+    border-radius: 25px;
+    padding: 4px;
+    width: 90px;
+    font-family: 'Original Surfer', cursive;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 10px black;
+}
+
+.btn:hover, .btn:active{
+   background-color: rgb(241, 214, 182);
+}
