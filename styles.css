@@ -142,7 +142,7 @@ body{
     color: black;
 }
 
-#gifts{
+.gifts{
     color:  rgb(236, 85, 39); 
     top: 470px;
     left: 660px;
